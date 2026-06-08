@@ -28,14 +28,6 @@ A real-time multiplayer drawing and guessing game inspired by Skribbl.io.
 - Express.js
 - Socket.IO
 
-## Live Demo
-
-Frontend:
-PASTE_YOUR_VERCEL_URL
-
-Backend:
-PASTE_YOUR_RENDER_URL
-
 ## Installation
 
 ### Clone repository
